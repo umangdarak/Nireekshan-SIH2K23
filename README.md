@@ -30,7 +30,7 @@ This application provides real-time monitoring of air and water quality indices,
 
 1. **Clone the Repository**
 
-git clone https://github.com/your-username/your-repository.git
+git clone [https://github.com/umangdarak/Nireekshan-SIH2K23](https://github.com/umangdarak/Nireekshan-SIH2K23)
 
 
 2. **Install Dependencies**
