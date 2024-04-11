@@ -9,14 +9,14 @@ This application provides real-time monitoring of air and water quality indices,
 - Real-time monitoring of air and water quality indices
 - Predictive analysis using machine learning models
 - Cross-platform support for Android, iOS, and Web
-- Secure backend powered by FastAPI in Python
+- Secure backend powered by Flask in Python
 
 ## Technologies Used
 
 - **Mobile App Development**: React Native
 - **Web App Development**: React.js with Vite
-- **Backend Development**: Python with FastAPI
-- **Machine Learning**: Python with scikit-learn, TensorFlow, or PyTorch
+- **Backend Development**: Python with Flask
+- **Machine Learning**: Python and Google collab
 
 ## Installation
 
