@@ -40,20 +40,6 @@ npm install # For React Native
 cd web && npm install # For React.js (Web)
 pip install -r requirements.txt # For FastAPI (Backend)
 
-3. **Run the Application**
-
-For React Native:
-npx react-native run-android # For Android
-npx react-native run-ios # For iOS
-
-
-For React.js (Web):
-cd web && npm run dev
-
-
-For FastAPI (Backend):
-uvicorn main:app --reload
-
 
 ## Usage
 
