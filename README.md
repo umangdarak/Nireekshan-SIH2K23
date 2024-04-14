@@ -18,29 +18,6 @@ This application provides real-time monitoring of air and water quality indices,
 - **Backend Development**: Python with Flask
 - **Machine Learning**: Python and Google collab
 
-## Installation
-
-### Prerequisites
-
-- Node.js and npm for React Native and React.js development
-- Python for backend development
-- Git for version control
-
-### Steps
-
-1. **Clone the Repository**
-
-git clone [https://github.com/umangdarak/Nireekshan-SIH2K23](https://github.com/umangdarak/Nireekshan-SIH2K23)
-
-
-2. **Install Dependencies**
-
-cd your-repository
-npm install # For React Native
-cd web && npm install # For React.js (Web)
-pip install -r requirements.txt # For FastAPI (Backend)
-
-
 ## Usage
 
 1. **Mobile App**: Open the mobile app on your Android or iOS device. Navigate through the app to view real-time air and water quality indices and predictions.
