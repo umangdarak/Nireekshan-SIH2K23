@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application provides real-time monitoring of air and water quality indices, allowing users to track environmental conditions in their area. It utilizes machine learning models to predict air and water quality indices based on various environmental factors.
+This application provides real-time monitoring of air and water quality indices, allowing users to track environmental conditions in their area based on their Geo Location. It utilizes machine learning models to predict air and water quality indices based on various environmental factors.
 
 ### Key Features
 
